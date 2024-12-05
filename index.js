@@ -20,7 +20,7 @@ function startTimer() {
     if (seconds === 60) {
       seconds = 0;
       minutes++;
-    }
+    }git i
     if (minutes === 60) {
       minutes = 0;
       hours++;
